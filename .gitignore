@@ -16,6 +16,10 @@ bld/
 [Bb]in/
 [Oo]bj/
 
+# Xamarin Studio
+*.userprefs
+*.pidb
+
 # MSTest test Results
 [Tt]est[Rr]esult*/
 [Bb]uild[Ll]og.*
